@@ -21,7 +21,7 @@
 ################################################################################
 {
  'name': "Quotation Subject Viewer",
-    'version': '17.0.0.1',
+    'version': '16.0.0.1',
     'summary': "Adds a visible subject/title field to the quotation list view for quick scanning",
     'description': """
         Quotation Subject Viewer enhances Odoo's quotation list view by adding a visible subject/title field.
@@ -52,4 +52,5 @@
     'auto_install': False,
 
 }
+
 
