@@ -42,8 +42,14 @@
     #    'static/description/screenshot2.png',
     #],
     'images': ['static/description/banner.png'],
+    'assets': {
+    'web.assets_backend': [
+        'static/description/index.html',
+       ],
+     },
     'installable': True,
     'application': False,
     'auto_install': False,
 
 }
+
