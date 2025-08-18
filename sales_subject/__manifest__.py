@@ -41,7 +41,9 @@
     #    'static/description/screenshot1.png',
     #    'static/description/screenshot2.png',
     #],
+    'images': ['static/description/banner.png'],
     'installable': True,
     'application': False,
     'auto_install': False,
+
 }
